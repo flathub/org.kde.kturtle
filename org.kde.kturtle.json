@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/kturtle-21.08.0.tar.xz",
-                    "sha256": "ce187fceaf4c279996c421506d3e85b88b49f0668a3085ea7a654107f9bf4a1e" 
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/kturtle-21.08.1.tar.xz",
+                    "sha256": "b76d95d8c113b0148e7c1cdc6b4c767e9c7985bc4954e6773b432ad7cd34cf96" 
                 }                 
             ]
         }
