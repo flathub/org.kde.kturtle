@@ -21,7 +21,13 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kturtle-21.12.3.tar.xz",
-                    "sha256": "43bc3de793f0971b75bf11a96e5af7961ccbc29a2a57417325953731f9d40999"
+                    "sha256": "43bc3de793f0971b75bf11a96e5af7961ccbc29a2a57417325953731f9d40999",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kturtle-$version.tar.xz"
+                    }
                 }                 
             ]
         }
