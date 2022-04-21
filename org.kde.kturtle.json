@@ -6,29 +6,28 @@
     "command": "kturtle",
     "rename-icon": "kturtle",
     "finish-args": [
-        "--share=network", 
-        "--share=ipc", 
-        "--socket=x11", 
+        "--share=network",
+        "--share=ipc",
+        "--socket=x11",
         "--socket=wayland",
         "--device=dri"
     ],
-
     "modules": [
         {
             "name": "kturtle",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kturtle-21.12.3.tar.xz",
-                    "sha256": "43bc3de793f0971b75bf11a96e5af7961ccbc29a2a57417325953731f9d40999",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kturtle-22.04.0.tar.xz",
+                    "sha256": "fd42b1380e7e46d6c1e5bc4cbe538edcf9ed9bfc5abf54141393adc28fe38427",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kturtle-$version.tar.xz"
                     }
-                }                 
+                }
             ]
         }
     ]
