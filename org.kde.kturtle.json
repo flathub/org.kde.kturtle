@@ -12,6 +12,9 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
+     "cleanup": [
+        "/share/doc"
+    ],
     "modules": [
         {
             "name": "kturtle",
