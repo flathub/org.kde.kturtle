@@ -12,7 +12,7 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
-     "cleanup": [
+    "cleanup": [
         "/share/doc"
     ],
     "modules": [
@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/kturtle-25.12.2.tar.xz",
-                    "sha256": "de5018c719b19c02a35e1c2a488e6673bbbb3d63acf5d97dc069905344a72837",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kturtle-25.12.3.tar.xz",
+                    "sha256": "7520152856ad0b8dac7d2212dc8bbb4d4fdc281205d9c0cc0de27d36de6e36dc",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
