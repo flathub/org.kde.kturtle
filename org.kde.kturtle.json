@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kturtle-26.04.3.tar.xz",
-                    "sha256": "d5736efad2344a6936ee18367e0cd2c1b0f98cbb6ed89106144a0a7d5047ecf7",
+                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/kturtle-26.08.1.tar.xz",
+                    "sha256": "07be25f8754521ddb0d14510133cc0e82227b7a3d659abdc05b2268121df5e1c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
