@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kturtle",
     "runtime": "org.kde.Platform",
-    "runtime-version": "6.10",
+    "runtime-version": "6.11",
     "sdk": "org.kde.Sdk",
     "command": "kturtle",
     "rename-icon": "kturtle",
@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/kturtle-26.08.2.tar.xz",
-                    "sha256": "9444b5d59afdfb21de0271feb858794a68e8d79d345bd7a5bdbb70a1d2566a2a",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/kturtle-26.08.3.tar.xz",
+                    "sha256": "be6d4b8b032a751bf468a8d5c436f51c2137067f25fb2f3d2ecfe8d415db3abc",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
